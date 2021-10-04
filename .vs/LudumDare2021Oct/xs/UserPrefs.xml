@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{907F747A-1EAE-B5EF-091C-881595BB6708}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager/FirstZone.cs">
+    <Files>
+      <File FileName="Assets/CreditsManager.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/GlitchEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/MenuManager.cs" Line="28" Column="12" />
+      <File FileName="Assets/Scripts/Manager/FirstZone.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LudumDare2021Oct" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Manager" expanded="True">
+                  <Node name="FirstZone.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ce283961-8e01-4b5e-a062-39b8e9c3b524" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
