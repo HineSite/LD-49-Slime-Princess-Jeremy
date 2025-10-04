@@ -59,6 +59,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement()
     {
-        PlayerRB.velocity = new Vector2(MovementDirection.x * MovementSpeed, MovementDirection.y * MovementSpeed);
+        PlayerRB.linearVelocity = new Vector2(MovementDirection.x * MovementSpeed, MovementDirection.y * MovementSpeed);
     }
 }

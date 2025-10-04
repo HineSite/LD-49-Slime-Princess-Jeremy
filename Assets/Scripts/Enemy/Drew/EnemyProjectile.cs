@@ -16,7 +16,7 @@ public class EnemyProjectile : MonoBehaviour {
 		rb = GetComponent<Rigidbody2D> ();
 		target = GameObject.FindObjectOfType<PlayerMovement>();
 		moveDirection = (target.transform.position - transform.position).normalized * moveSpeed;
-		rb.velocity = new Vector2 (moveDirection.x, moveDirection.y);
+		rb.linearVelocity = new Vector2 (moveDirection.x, moveDirection.y);
 		Destroy (gameObject, 3f);
 	}
 
